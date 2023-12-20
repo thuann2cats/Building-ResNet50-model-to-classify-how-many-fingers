@@ -11,4 +11,5 @@ Identity block:
 Convolutional block:
 ![convblock_kiank.png](images%2Fconvblock_kiank.png)
 
+(Please note that the dataset is excluded from the repo due to file size limits.)
 
